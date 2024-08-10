@@ -1,4 +1,4 @@
-// this is test for SKI comapni
+// this is a test for SKI comapany
 
 using System.Collections.Generic;
 using System.Text;
